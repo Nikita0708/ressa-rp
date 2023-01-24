@@ -9502,3 +9502,14 @@ body {
     list-style-type: none;
     padding: 0;
 }
+.img-step-1{
+    width: 600px;
+    height: 400px;
+}
+.img-step-2 {
+    width: 600px;
+}
+.img-step-3 {
+    width: 600px;
+    height: 300px;
+}
